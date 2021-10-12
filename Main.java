@@ -239,7 +239,7 @@ class Hotel
             case 4:System.out.println("Number of single beds : 1\nAC : No\nFree breakfast : Yes\nCharge per day:1200 ");
                 break;
             default:
-                System.out.println("Enter valid option");
+                System.out.println("Enter the most liked valid option");
                 break;
         }
     }
